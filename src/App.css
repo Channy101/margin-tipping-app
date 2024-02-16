@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.Authenticator-height {
+  height: 100vh;
+}
